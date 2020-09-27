@@ -1,5 +1,5 @@
 #! /bin/bash
 
-cd spring-petclinic
+cd web-dev
 
-mvn test
+RUN apt-get update && apt-get upgrade -y
