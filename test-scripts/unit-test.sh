@@ -1,4 +1,7 @@
 #! /bin/bash
 
-echo "Successfully run concourse pipeline!!!!!!!!!!!!!"
-echo "Yeah"
+cd web-dev
+
+phpunit .
+
+echo '1'
