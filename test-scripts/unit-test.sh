@@ -4,4 +4,4 @@ cd web-dev
 
 phpunit .
 
-echo '1'
+#echo '1'
