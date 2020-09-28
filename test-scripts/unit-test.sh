@@ -1,6 +1,6 @@
 #! /bin/bash
 
-cd web-dev
+cd concourse-test
 
 phpunit .
 
