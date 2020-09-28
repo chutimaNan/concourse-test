@@ -2,4 +2,6 @@
 
 ls
 
+mvn test
+
 #echo '11111111'
