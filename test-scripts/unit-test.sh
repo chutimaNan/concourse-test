@@ -1,6 +1,8 @@
 #! /bin/bash
-cd test-scripts
 
-mvn test
+ls
+#cd my-app
+
+#mvn test
 
 #echo '11111111'
