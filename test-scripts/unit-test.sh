@@ -1,6 +1,5 @@
 #! /bin/bash
-
-ls
+cd test-scripts
 
 mvn test
 
