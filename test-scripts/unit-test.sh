@@ -1,8 +1,7 @@
 #! /bin/bash
 
-ls
-#cd my-app
+cd web-dev 
 
-#mvn test
+mvn test
 
 #echo '11111111'
