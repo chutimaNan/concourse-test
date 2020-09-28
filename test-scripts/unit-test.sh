@@ -1,7 +1,7 @@
 #! /bin/bash
 
-cd concourse-test
+#cd concourse-test
 
-phpunit .
+#phpunit .
 
-#echo '1'
+echo '11111111'
