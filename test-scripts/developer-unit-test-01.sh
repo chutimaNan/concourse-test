@@ -1,5 +1,5 @@
 #! /bin/bash
 
-cd spring-petclinic
+cd web-dev
 
 # insert developer tests here...
