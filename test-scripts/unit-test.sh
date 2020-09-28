@@ -1,5 +1,5 @@
 #! /bin/bash
 
-cd concourse-test
+ls
 
 #echo '11111111'
