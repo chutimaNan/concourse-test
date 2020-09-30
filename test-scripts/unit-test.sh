@@ -2,6 +2,8 @@
 
 cd web-dev 
 
-mvn test
+
+# jar file poutput in target folder (install + test)
+mvn clean install
 
 #echo '11111111'
